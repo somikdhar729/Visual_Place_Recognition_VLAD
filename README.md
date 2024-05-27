@@ -1,0 +1,1 @@
+# Visual_Place_Recognition_VLAD
